@@ -1,5 +1,5 @@
 # IFT6010_Applying_Answer-Clue-Style_Approach_to_VQG
-This repo is cretaed as a part of Project Course work for IFT6010 - 2021.
+This repo is cretaed as a part of project course work for IFT6010 - 2021.
 In this project,  we  adapt  Liu  Bang’s  Answer-Clue-Style-aware approach to the VQG task. Ourgoal is to develop a scalable system that can automatically generate diverse and high-quality visual question-answers pairs from a set of un-labelled  images. The  proposed  pipeline  is  a combination  of  an  image  captioning  module that extracts detailed and meaningful information from an image and an ACS-aware question generation module that produces question-answers pairs from the extracted visual infor-mation. 
 
 This project works on on paper https://arxiv.org/abs/2002.00748 and the code is adapted from https://github.com/BangLiu/ACS-QG
