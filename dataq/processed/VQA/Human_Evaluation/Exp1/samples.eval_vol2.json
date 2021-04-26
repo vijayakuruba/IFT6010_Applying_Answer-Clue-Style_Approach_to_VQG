@@ -1,0 +1,804 @@
+{
+   "data":[
+      {
+         "image_id":711,
+         "question":"How is the dining room located?",
+         "answer":"A living room",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":974,
+         "question":"Is riding on the back of an elephant  a group of people or a group of people?",
+         "answer":"people",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[2]
+      },
+      {
+         "image_id":974,
+         "question":"How are people riding on the back of an elephant?",
+         "answer":"back",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":1146,
+         "question":"Why was the coat of arms worn?",
+         "answer":"glasses",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":1146,
+         "question":"What type of person is wearing glasses and a suit and tie?",
+         "answer":"a suit and tie",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":1153,
+         "question":"What was sitting on a bowl?",
+         "answer":"a bowl",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":1180,
+         "question":"Why is a woman standing at a table with a cake in her hand?",
+         "answer":"woman",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":1340,
+         "question":"Are there flowers in a vase?",
+         "answer":"flowers in it",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":1448,
+         "question":"How is the grass on which a giraffe grazes typically grown?",
+         "answer":"field",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":1554,
+         "question":"Are two sheep standing in a field with people or sheep?",
+         "answer":"people",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":1626,
+         "question":"Are the two men in the room with the video game in mind?",
+         "answer":"a video game",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":1655,
+         "question":"Does the person taking a picture of the mountain take a picture?",
+         "answer":"a picture of a mountain",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":1655,
+         "question":"What did a man take a picture of?",
+         "answer":"mountain",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":2006,
+         "question":"How is a purple bus travelling down how far?",
+         "answer":"a city street",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":2006,
+         "question":"How is a purple bus travelling down how far?",
+         "answer":"a city street",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":3067,
+         "question":"What is on the desk next to a coffee table?",
+         "answer":"an apple and a phone",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[2]
+      },
+      {
+         "image_id":3067,
+         "question":"What is on the desk next to a coffee table?",
+         "answer":"an apple and a phone",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[2]
+      },
+      {
+         "image_id":131418,
+         "question":"Are there any umbrellas in the rain?",
+         "answer":"umbrellas",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":131497,
+         "question":"What animal is lying on top of what?",
+         "answer":"couch",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":131597,
+         "question":"How did the protesters approach the police?",
+         "answer":"lot",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":132272,
+         "question":"Is it true that wine and food are interchangeable?",
+         "answer":"a glass of wine",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":132317,
+         "question":"What position did a suitcase sit on?",
+         "answer":"top",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":132415,
+         "question":"What type of pizza is served on a plate with a fork?",
+         "answer":"a plate",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":132415,
+         "question":"Are slices of pizza on a plate or a fork?",
+         "answer":"pizza",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":132612,
+         "question":"What group of zebras and giraffes are in a field?",
+         "answer":"field",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":132861,
+         "question":"How did the English mathematician Arthur Spenser build his clock tower?",
+         "answer":"it",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":133251,
+         "question":"What is on a couch in a black and white house?",
+         "answer":"black",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":133567,
+         "question":"Was the person standing next to a train seen standing in the street?",
+         "answer":"train",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":133567,
+         "question":"Was a man standing next to a train on the tracks?",
+         "answer":"train",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":133567,
+         "question":"Was a man standing next to a train on the tracks?",
+         "answer":"train",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":133620,
+         "question":"Did the woman on the cell phone talk on a cell phone?",
+         "answer":"a hat and sunglasses",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":133620,
+         "question":"What type of hat and sunglasses did the woman talking on the phone wear?",
+         "answer":"wearing",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":133636,
+         "question":"Is the parking meter located on the side of a street?",
+         "answer":"the side of a street",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":133928,
+         "question":"Are there any boats that are on the river?",
+         "answer":"A yellow boat",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":134010,
+         "question":"Is a red train traveling down the tracks?",
+         "answer":"A red train",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":134010,
+         "question":"How is a red train traveling?",
+         "answer":"tracks",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":134010,
+         "question":"Does a train move down the tracks or go straight down the tracks?",
+         "answer":"A red train",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":134010,
+         "question":"How is a red train traveling?",
+         "answer":"tracks",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":262162,
+         "question":"Can a bedroom with a chair and a desk be used as a bedroom?",
+         "answer":"a bed and a chair and a desk",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":262197,
+         "question":"How is a clock tower placed on the front of the  synagogue?",
+         "answer":"of it",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":262391,
+         "question":"Do people sit in front of a television or sit in front of it?",
+         "answer":"front",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":262509,
+         "question":"Was a boat on a river with a clock tower?",
+         "answer":"a clock tower",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":262509,
+         "question":"Was the boat in the middle of a river with a clock tower or a boat in the middle of it?",
+         "answer":"a clock tower",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":262514,
+         "question":"Do women and men have the same bathrooms?",
+         "answer":"a toilet and a sink",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":262895,
+         "question":"Does a man wearing a tie or suit have a lot of control over his surroundings?",
+         "answer":"a suit and tie",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":262895,
+         "question":"Was the wearer of a suit and tie?",
+         "answer":"a suit and tie",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":263011,
+         "question":"What is the name of the group that people stand in a field with?",
+         "answer":"buses",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":263664,
+         "question":"How is a person riding a motorcycle positioned?",
+         "answer":"man",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":264625,
+         "question":"Can flowers be found in a vase?",
+         "answer":"flowers sitting on a table",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":264683,
+         "question":"What was the group of people that parked in a museum?",
+         "answer":"planes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":264683,
+         "question":"Did a group of planes park in a museum?",
+         "answer":"A group of planes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":264718,
+         "question":"What is placed on the side of a parking meter?",
+         "answer":"A street sign",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":327771,
+         "question":"How is the room in the living room with a bed and a table located?",
+         "answer":"a bed and a table",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":327771,
+         "question":"How is the room in the living room with a bed and a table located?",
+         "answer":"a bed and a table",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":393338,
+         "question":"What did the vase fill with?",
+         "answer":"flowers",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":393410,
+         "question":"What color was a large airplane flying in?",
+         "answer":"in a blue sky",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":393557,
+         "question":"What group of animals are standing next to each other?",
+         "answer":"zebras",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":393583,
+         "question":"What is on the side of a fence in Hyderabad?",
+         "answer":"the side of a fence",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":393647,
+         "question":"What is the main object of a crowd?",
+         "answer":"people",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":393647,
+         "question":"What part of the bus did a group of people standing in front of take photos?",
+         "answer":"front of a bus",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":393777,
+         "question":"What is the name of the room in which the children are playing?",
+         "answer":"room",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":393777,
+         "question":"How was the boy and woman in the room when the attack happened?",
+         "answer":"a video game",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":393984,
+         "question":"What is in a kitchen with a sink?",
+         "answer":"a kitchen with a sink",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":394133,
+         "question":"What did the hotel room with a bed and a chair have?",
+         "answer":"a bed and a chair",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":394133,
+         "question":"Was the room with a chair or chair used for the lunch or dinner meal?",
+         "answer":"a bed and a chair",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":394240,
+         "question":"What was on the other side of the building?",
+         "answer":"motorcycles",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":394510,
+         "question":"What was riding a skateboard on a street?",
+         "answer":"A young boy",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":394801,
+         "question":"Does it mean that the fruit is edible?",
+         "answer":"fruits and vegetables",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":395402,
+         "question":"Does a dog sit on a table next to a table?",
+         "answer":"A brown dog",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":395402,
+         "question":"Is the dog sitting on the floor next to a table a brown or brown dog?",
+         "answer":"A brown dog",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":396209,
+         "question":"What type of chair is used in the area?",
+         "answer":"A narrow alley",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":415325,
+         "question":"What part of a pole can be seen as a yellow sign?",
+         "answer":"side",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":415325,
+         "question":"What part of a pole can be seen as a yellow sign?",
+         "answer":"side",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":510657,
+         "question":"How can you describe the members of a group of people sitting at a table?",
+         "answer":"group",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":524575,
+         "question":"Are these animals native to Antarctica?",
+         "answer":"giraffes and other animals",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":524775,
+         "question":"What type of vehicle is used to travel to and from the airport?",
+         "answer":"street",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":524822,
+         "question":"What are the living room and dining room items in the house?",
+         "answer":"a couch and a television",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":525087,
+         "question":"Where was the man riding on?",
+         "answer":"the back",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":525087,
+         "question":"How did a man riding on a back of a horse get his bearings?",
+         "answer":"back",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":525118,
+         "question":"Are there any specific types of food items that can be made with milk?",
+         "answer":"bananas",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":525369,
+         "question":"How was the child's blanket placed?",
+         "answer":"laying",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":525559,
+         "question":"Are zebras standing next to each other in a field or a field?",
+         "answer":"field",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":525568,
+         "question":"Are two zebras standing next to each other in a field?",
+         "answer":"Two",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":525616,
+         "question":"How are people playing video games?",
+         "answer":"a living room",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":525763,
+         "question":"How many boats docked in a harbor?",
+         "answer":"group",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":526126,
+         "question":"What was a prankster doing on a skateboard?",
+         "answer":"skateboard",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":526126,
+         "question":"Does a man do a trick on a skateboard?",
+         "answer":"man",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":526256,
+         "question":"What was on the side of a building on the day the trial was decided?",
+         "answer":"the side of a building",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":526394,
+         "question":"Does a cake on a white chocolate cake have a fork or fork?",
+         "answer":"a white plate",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":526560,
+         "question":"Is a grass or a stone standing in the field?",
+         "answer":"grass",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":526560,
+         "question":"Is a zebra standing in a field or in a field?",
+         "answer":"field",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":526806,
+         "question":"Is the train sitting on the tracks or the train?",
+         "answer":"train",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":526806,
+         "question":"How is the train sitting on tracks?",
+         "answer":"is",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[0],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":526955,
+         "question":"Is it possible for a child to sit in the grass with a ball?",
+         "answer":"A young child",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":527164,
+         "question":"What is on a pole and on what?",
+         "answer":"a sign on a pole",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[2]
+      },
+      {
+         "image_id":527164,
+         "question":"What does a traffic light and a sign on a pole have in common?",
+         "answer":"sign",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":527164,
+         "question":"What does a traffic light and a sign on a pole have in common?",
+         "answer":"sign",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":527313,
+         "question":"What is a man sitting at a table eating in a restaurant called?",
+         "answer":"eating a sandwich",
+         "question_is_relevant":[0],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":527447,
+         "question":"Is it snow or snow covered on the mountain?",
+         "answer":"skis",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[2],
+         "answer_is_correct":[0]
+      },
+      {
+         "image_id":527447,
+         "question":"What is a group of people on a snow covered mountain called?",
+         "answer":"of people",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[0]
+      }
+   ]
+}

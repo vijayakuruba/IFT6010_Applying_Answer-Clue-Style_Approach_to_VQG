@@ -1,0 +1,889 @@
+{
+    "version": "fqg",
+    "data": [
+        {
+            "paragraphs": [
+                {
+                    "context": "A young boy eating a doughnut with a bite",
+                    "qas": [
+                        {
+                            "id": "question_0",
+                            "question": "What is a young boy eating?",
+                            "original_question": "What is the child eating?",
+                            "answers": [
+                                {
+                                    "text": "doughnut",
+                                    "answer_start": 21
+                                }
+                            ],
+                            "clue": "eating",
+                            "clue_start": 12,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A young boy is eating a doughnut with a bite",
+                    "qas": [
+                        {
+                            "id": "question_1",
+                            "question": "What is the id of the young boy?",
+                            "original_question": "What is the child eating?",
+                            "answers": [
+                                {
+                                    "text": "is eating a doughnut with a bite",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "clue": "eating",
+                            "clue_start": 15,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A building with a clock tower in front of it",
+                    "qas": [
+                        {
+                            "id": "question_2",
+                            "question": "Do buildings with clock towers stand for clocks or rooms?",
+                            "original_question": "Is there a tree in front of the building?",
+                            "answers": [
+                                {
+                                    "text": "front",
+                                    "answer_start": 33
+                                }
+                            ],
+                            "clue": "building",
+                            "clue_start": 2,
+                            "ques_type": "Boolean",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A clock tower in front of a building",
+                    "qas": [
+                        {
+                            "id": "question_3",
+                            "question": "Is a clock tower in front of a building or behind it?",
+                            "original_question": "Is there a tree in front of the building?",
+                            "answers": [
+                                {
+                                    "text": "front of a building",
+                                    "answer_start": 17
+                                }
+                            ],
+                            "clue": "front of a building",
+                            "clue_start": 17,
+                            "ques_type": "Boolean",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A building with a clock tower in front of it",
+                    "qas": [
+                        {
+                            "id": "question_4",
+                            "question": "What type of building is a clock tower in front of?",
+                            "original_question": "What color is the building?",
+                            "answers": [
+                                {
+                                    "text": "front",
+                                    "answer_start": 33
+                                }
+                            ],
+                            "clue": "building",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A clock tower in front of a building",
+                    "qas": [
+                        {
+                            "id": "question_5",
+                            "question": "A clock tower is in what type of building?",
+                            "original_question": "What color is the building?",
+                            "answers": [
+                                {
+                                    "text": "front",
+                                    "answer_start": 17
+                                }
+                            ],
+                            "clue": "building",
+                            "clue_start": 28,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A woman standing in a living room with a television",
+                    "qas": [
+                        {
+                            "id": "question_6",
+                            "question": "What was standing in a living room with a television?",
+                            "original_question": "What is the woman in the room doing?",
+                            "answers": [
+                                {
+                                    "text": "woman",
+                                    "answer_start": 2
+                                }
+                            ],
+                            "clue": "woman",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A woman is standing in a living room with a television",
+                    "qas": [
+                        {
+                            "id": "question_7",
+                            "question": "What is standing in a living room with a television?",
+                            "original_question": "What is the woman in the room doing?",
+                            "answers": [
+                                {
+                                    "text": "woman",
+                                    "answer_start": 2
+                                }
+                            ],
+                            "clue": "woman",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A man in a suit and tie standing in a field",
+                    "qas": [
+                        {
+                            "id": "question_8",
+                            "question": "Is there a man standing in the field?",
+                            "original_question": "Is the man happy?",
+                            "answers": [
+                                {
+                                    "text": "a suit and tie",
+                                    "answer_start": 9
+                                }
+                            ],
+                            "clue": "man",
+                            "clue_start": 2,
+                            "ques_type": "Boolean",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A man in a suit and tie is standing in a field",
+                    "qas": [
+                        {
+                            "id": "question_9",
+                            "question": "Are people in suits and tie standing in the field?",
+                            "original_question": "Is the man happy?",
+                            "answers": [
+                                {
+                                    "text": "a suit and tie",
+                                    "answer_start": 9
+                                }
+                            ],
+                            "clue": "man",
+                            "clue_start": 2,
+                            "ques_type": "Boolean",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A man in a suit and tie standing in a field",
+                    "qas": [
+                        {
+                            "id": "question_10",
+                            "question": "What type of suit was used in the show \"Robopocalypse\"?",
+                            "original_question": "What occasion is the man attending?",
+                            "answers": [
+                                {
+                                    "text": "suit",
+                                    "answer_start": 11
+                                }
+                            ],
+                            "clue": "man",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A man in a suit and tie is standing in a field",
+                    "qas": [
+                        {
+                            "id": "question_11",
+                            "question": "What is standing in a field?",
+                            "original_question": "What occasion is the man attending?",
+                            "answers": [
+                                {
+                                    "text": "is",
+                                    "answer_start": 24
+                                }
+                            ],
+                            "clue": "man",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A laptop computer sitting on top of a bed",
+                    "qas": [
+                        {
+                            "id": "question_12",
+                            "question": "What is a bed made of?",
+                            "original_question": "What make and model is the laptop?",
+                            "answers": [
+                                {
+                                    "text": "top",
+                                    "answer_start": 5
+                                }
+                            ],
+                            "clue": "laptop",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A laptop computer is sitting on top of a bed",
+                    "qas": [
+                        {
+                            "id": "question_13",
+                            "question": "What is sitting on top of a bed?",
+                            "original_question": "What make and model is the laptop?",
+                            "answers": [
+                                {
+                                    "text": "A laptop computer",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "clue": "laptop",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A laptop computer sitting on top of a bed",
+                    "qas": [
+                        {
+                            "id": "question_14",
+                            "question": "Are computers used for everyday use?",
+                            "original_question": "Is the laptop on or off?",
+                            "answers": [
+                                {
+                                    "text": "top",
+                                    "answer_start": 5
+                                }
+                            ],
+                            "clue": "laptop",
+                            "clue_start": 2,
+                            "ques_type": "Boolean",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A laptop computer is sitting on top of a bed",
+                    "qas": [
+                        {
+                            "id": "question_15",
+                            "question": "Are laptops or tablets used to stand on the bed?",
+                            "original_question": "Is the laptop on or off?",
+                            "answers": [
+                                {
+                                    "text": "is",
+                                    "answer_start": 18
+                                }
+                            ],
+                            "clue": "laptop",
+                            "clue_start": 2,
+                            "ques_type": "Boolean",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A stop sign on the side of a street",
+                    "qas": [
+                        {
+                            "id": "question_16",
+                            "question": "What did some of the people that stopped at the mall stop on?",
+                            "original_question": "What street is this sign located?",
+                            "answers": [
+                                {
+                                    "text": "A stop sign",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "clue": "sign",
+                            "clue_start": 7,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A stop sign is on the side of a street",
+                    "qas": [
+                        {
+                            "id": "question_17",
+                            "question": "What is on the side of a street?",
+                            "original_question": "What street is this sign located?",
+                            "answers": [
+                                {
+                                    "text": "A stop sign",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "clue": "sign",
+                            "clue_start": 7,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A building with a clock tower on top of it",
+                    "qas": [
+                        {
+                            "id": "question_18",
+                            "question": "What type of tower is used to display the time?",
+                            "original_question": "What color is the clock?",
+                            "answers": [
+                                {
+                                    "text": "top",
+                                    "answer_start": 33
+                                }
+                            ],
+                            "clue": "clock",
+                            "clue_start": 18,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A building has a clock tower on top of it",
+                    "qas": [
+                        {
+                            "id": "question_19",
+                            "question": "What is the tower on top of a building called?",
+                            "original_question": "What color is the clock?",
+                            "answers": [
+                                {
+                                    "text": "top",
+                                    "answer_start": 32
+                                }
+                            ],
+                            "clue": "clock",
+                            "clue_start": 17,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A clock tower on top of a building",
+                    "qas": [
+                        {
+                            "id": "question_20",
+                            "question": "What type of building was used to store energy in the solar system?",
+                            "original_question": "What color is the clock?",
+                            "answers": [
+                                {
+                                    "text": "top",
+                                    "answer_start": 17
+                                }
+                            ],
+                            "clue": "clock",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "An elephant is in the back of a truck on a road",
+                    "qas": [
+                        {
+                            "id": "question_21",
+                            "question": "What animal is in a back of a truck on a road?",
+                            "original_question": "What is in the back of the truck?",
+                            "answers": [
+                                {
+                                    "text": "An elephant",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "clue": "back",
+                            "clue_start": 22,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "An elephant in the back of a truck on a road",
+                    "qas": [
+                        {
+                            "id": "question_22",
+                            "question": "What animal is often seen on a road?",
+                            "original_question": "What is in the back of the truck?",
+                            "answers": [
+                                {
+                                    "text": "elephant",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "clue": "back",
+                            "clue_start": 19,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A green bench sitting in the middle of a forest",
+                    "qas": [
+                        {
+                            "id": "question_23",
+                            "question": "What sits in the middle of a forest?",
+                            "original_question": "What is covering the bench?",
+                            "answers": [
+                                {
+                                    "text": "A green bench",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "clue": "bench",
+                            "clue_start": 8,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A green bench is sitting in the middle of a forest",
+                    "qas": [
+                        {
+                            "id": "question_24",
+                            "question": "What sits in the middle of a forest?",
+                            "original_question": "What is covering the bench?",
+                            "answers": [
+                                {
+                                    "text": "A green bench",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "clue": "bench",
+                            "clue_start": 8,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A teddy bear laying on top of a bed",
+                    "qas": [
+                        {
+                            "id": "question_25",
+                            "question": "Was the teddy bear lying on top of a bed?",
+                            "original_question": "Is there a real bird in the bed next to the stuffed animal?",
+                            "answers": [
+                                {
+                                    "text": "top of a bed",
+                                    "answer_start": 23
+                                }
+                            ],
+                            "clue": "bed",
+                            "clue_start": 32,
+                            "ques_type": "Boolean",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A teddy bear is laying on top of a bed",
+                    "qas": [
+                        {
+                            "id": "question_26",
+                            "question": "Is a teddy bear lying on top of a bed?",
+                            "original_question": "Is there a real bird in the bed next to the stuffed animal?",
+                            "answers": [
+                                {
+                                    "text": "top",
+                                    "answer_start": 26
+                                }
+                            ],
+                            "clue": "bed",
+                            "clue_start": 35,
+                            "ques_type": "Boolean",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A teddy bear laying on top of a bed",
+                    "qas": [
+                        {
+                            "id": "question_27",
+                            "question": "What is the name of a teddy bear that has been resting on the bed?",
+                            "original_question": "What is the stuffed bear holding?",
+                            "answers": [
+                                {
+                                    "text": "top",
+                                    "answer_start": 23
+                                }
+                            ],
+                            "clue": "bear",
+                            "clue_start": 8,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A teddy bear is laying on top of a bed",
+                    "qas": [
+                        {
+                            "id": "question_28",
+                            "question": "What is on the bed?",
+                            "original_question": "What is the stuffed bear holding?",
+                            "answers": [
+                                {
+                                    "text": "top of a bed",
+                                    "answer_start": 26
+                                }
+                            ],
+                            "clue": "bear",
+                            "clue_start": 8,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A clock on the wall above a table with a clock",
+                    "qas": [
+                        {
+                            "id": "question_29",
+                            "question": "What type of clock is above a table in the Notre Dame library?",
+                            "original_question": "What is the item called that is hanging from the clock?",
+                            "answers": [
+                                {
+                                    "text": "the wall above a table",
+                                    "answer_start": 11
+                                }
+                            ],
+                            "clue": "clock",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A clock on the wall is above a table with a clock",
+                    "qas": [
+                        {
+                            "id": "question_30",
+                            "question": "What is above a table on the wall?",
+                            "original_question": "What is the item called that is hanging from the clock?",
+                            "answers": [
+                                {
+                                    "text": "a table with a clock",
+                                    "answer_start": 29
+                                }
+                            ],
+                            "clue": "clock",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A clock on the wall above a table with a clock",
+                    "qas": [
+                        {
+                            "id": "question_31",
+                            "question": "What was on the wall above a table with a clock?",
+                            "original_question": "What are the things hanging from the clock?",
+                            "answers": [
+                                {
+                                    "text": "wall",
+                                    "answer_start": 15
+                                }
+                            ],
+                            "clue": "clock",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A clock on the wall is above a table with a clock",
+                    "qas": [
+                        {
+                            "id": "question_32",
+                            "question": "What is above a table with a clock on it?",
+                            "original_question": "What are the things hanging from the clock?",
+                            "answers": [
+                                {
+                                    "text": "is",
+                                    "answer_start": 20
+                                }
+                            ],
+                            "clue": "clock",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A sandwich on a plate on a table",
+                    "qas": [
+                        {
+                            "id": "question_33",
+                            "question": "Does the sandwich in the corner of a box or the table above a table have a special meaning?",
+                            "original_question": "Did someone take a bite of the sandwich?",
+                            "answers": [
+                                {
+                                    "text": "a plate on a table",
+                                    "answer_start": 14
+                                }
+                            ],
+                            "clue": "sandwich",
+                            "clue_start": 2,
+                            "ques_type": "Boolean",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A sandwich is on a plate on a table",
+                    "qas": [
+                        {
+                            "id": "question_34",
+                            "question": "Is a sandwich on a table okay or not okay with the rest of the room?",
+                            "original_question": "Did someone take a bite of the sandwich?",
+                            "answers": [
+                                {
+                                    "text": "a plate on a table",
+                                    "answer_start": 17
+                                }
+                            ],
+                            "clue": "sandwich",
+                            "clue_start": 2,
+                            "ques_type": "Boolean",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A sandwich on a plate on a table",
+                    "qas": [
+                        {
+                            "id": "question_35",
+                            "question": "What was on a table on the day of the assassination?",
+                            "original_question": "What kind of bread was used to make the sandwich?",
+                            "answers": [
+                                {
+                                    "text": "a plate on a table",
+                                    "answer_start": 14
+                                }
+                            ],
+                            "clue": "sandwich",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A sandwich is on a plate on a table",
+                    "qas": [
+                        {
+                            "id": "question_36",
+                            "question": "What is on a plate?",
+                            "original_question": "What kind of bread was used to make the sandwich?",
+                            "answers": [
+                                {
+                                    "text": "a plate on a table",
+                                    "answer_start": 17
+                                }
+                            ],
+                            "clue": "sandwich",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A person holding a kite on the beach",
+                    "qas": [
+                        {
+                            "id": "question_37",
+                            "question": "What object is held on the beach by a person holding a kite?",
+                            "original_question": "What is the person doing?",
+                            "answers": [
+                                {
+                                    "text": "kite",
+                                    "answer_start": 19
+                                }
+                            ],
+                            "clue": "person",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A person is holding a kite on the beach",
+                    "qas": [
+                        {
+                            "id": "question_38",
+                            "question": "What is held on the beach by a person who holds a kite on the beach?",
+                            "original_question": "What is the person doing?",
+                            "answers": [
+                                {
+                                    "text": "kite",
+                                    "answer_start": 22
+                                }
+                            ],
+                            "clue": "person",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A person holding a kite on the beach",
+                    "qas": [
+                        {
+                            "id": "question_39",
+                            "question": "Are there any places where a person can hold a kite?",
+                            "original_question": "Is this on a beach?",
+                            "answers": [
+                                {
+                                    "text": "kite",
+                                    "answer_start": 19
+                                }
+                            ],
+                            "clue": "beach",
+                            "clue_start": 31,
+                            "ques_type": "Boolean",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A person is holding a kite on the beach",
+                    "qas": [
+                        {
+                            "id": "question_40",
+                            "question": "Is the person holding a kite on the beach holding a kite?",
+                            "original_question": "Is this on a beach?",
+                            "answers": [
+                                {
+                                    "text": "kite",
+                                    "answer_start": 22
+                                }
+                            ],
+                            "clue": "beach",
+                            "clue_start": 34,
+                            "ques_type": "Boolean",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A man throwing a frisbee in a park",
+                    "qas": [
+                        {
+                            "id": "question_41",
+                            "question": "What do you throw in a park?",
+                            "original_question": "What is the man doing?",
+                            "answers": [
+                                {
+                                    "text": "a frisbee",
+                                    "answer_start": 15
+                                }
+                            ],
+                            "clue": "man",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A man is throwing a frisbee in a park",
+                    "qas": [
+                        {
+                            "id": "question_42",
+                            "question": "What is throwing a frisbee in a park?",
+                            "original_question": "What is the man doing?",
+                            "answers": [
+                                {
+                                    "text": "is",
+                                    "answer_start": 6
+                                }
+                            ],
+                            "clue": "man",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "A man is threw a frisbee in a park",
+                    "qas": [
+                        {
+                            "id": "question_43",
+                            "question": "What person is thrown a frisbee in a park?",
+                            "original_question": "What is the man doing?",
+                            "answers": [
+                                {
+                                    "text": "is",
+                                    "answer_start": 6
+                                }
+                            ],
+                            "clue": "man",
+                            "clue_start": 2,
+                            "ques_type": "What",
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

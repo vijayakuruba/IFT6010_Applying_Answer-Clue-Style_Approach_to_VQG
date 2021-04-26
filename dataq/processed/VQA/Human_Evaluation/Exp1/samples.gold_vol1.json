@@ -1,0 +1,804 @@
+{
+   "data":[
+      {
+         "image_id":711,
+         "original_question":"How many couches?",
+         "original_answer":"2",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":974,
+         "original_question":"Are these people in the jungle?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[2]
+      },
+      {
+         "image_id":974,
+         "original_question":"How many people are in the image?",
+         "original_answer":"4",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":1146,
+         "original_question":"Why does he have glasses on?",
+         "original_answer":"to see",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":1146,
+         "original_question":"What animal is on the man's shirt?",
+         "original_answer":"none",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":1153,
+         "original_question":"What kind of container are the bananas sitting in?",
+         "original_answer":"bowl",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":1180,
+         "original_question":"Why don't the women in the background get to cut the cake?",
+         "original_answer":"not their birthday",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":1340,
+         "original_question":"Are these flowers artificial?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":1448,
+         "original_question":"Is the giraffe shown here standing erect?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":1554,
+         "original_question":"Are these sheep shaved?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":1626,
+         "original_question":"Are there flowers in the room?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":1655,
+         "original_question":"Is the background of the picture blurry?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":1655,
+         "original_question":"What is this man taking a picture of?",
+         "original_answer":"mountains",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":2006,
+         "original_question":"How many dots are on the bus?",
+         "original_answer":"30",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":2006,
+         "original_question":"How many dots are on the bus?",
+         "original_answer":"30",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":3067,
+         "original_question":"What color is the cat?",
+         "original_answer":"black",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":3067,
+         "original_question":"What color is the cat?",
+         "original_answer":"black",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":131418,
+         "original_question":"Can the people get into this building?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":131497,
+         "original_question":"What does the dog have on his head?",
+         "original_answer":"bed",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":131597,
+         "original_question":"How many motorcycles are there?",
+         "original_answer":"4",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":132272,
+         "original_question":"Is the man smiling?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":132317,
+         "original_question":"What is sitting on the laptop?",
+         "original_answer":"dragonfly",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":132415,
+         "original_question":"What is the pizza in?",
+         "original_answer":"plate",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":132415,
+         "original_question":"Has anyone taken a bite of the slices now on this plate?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":132612,
+         "original_question":"What is it called when all the zebra are together?",
+         "original_answer":"herd",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":132861,
+         "original_question":"How many clocks can be seen on this building?",
+         "original_answer":"2",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":133251,
+         "original_question":"What color is the larger dog?",
+         "original_answer":"black",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":133567,
+         "original_question":"Is the train moving?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":133567,
+         "original_question":"Is the train moving in this photo?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":133567,
+         "original_question":"Is the train moving in this photo?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":133620,
+         "original_question":"Is she wearing glasses?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":133620,
+         "original_question":"What is she wearing on her head?",
+         "original_answer":"helmet",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":133636,
+         "original_question":"Are the meters rusted?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":133928,
+         "original_question":"Is the boat in the water?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":134010,
+         "original_question":"Is this a train station?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":134010,
+         "original_question":"How many train cars are in the image?",
+         "original_answer":"3",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":134010,
+         "original_question":"Is the grass overgrown on the tracks?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":134010,
+         "original_question":"How many train cars are on this train?",
+         "original_answer":"3",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":262162,
+         "original_question":"Has the bed been made?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":262197,
+         "original_question":"How many colors is the building on the right painted?",
+         "original_answer":"1",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":262391,
+         "original_question":"Is that a television screen?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":262509,
+         "original_question":"Is there a boat on the water?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":262509,
+         "original_question":"Is the river clear?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":262514,
+         "original_question":"Is the woman dark haired?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":262895,
+         "original_question":"Is his tie tight?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":262895,
+         "original_question":"Is the man looking at the camera?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":263011,
+         "original_question":"What type of buses are these?",
+         "original_answer":"double decker",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":263664,
+         "original_question":"How many people are riding on the bike?",
+         "original_answer":"2",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":264625,
+         "original_question":"Are these flowers daffodils?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":264683,
+         "original_question":"What airline does the plane fly for?",
+         "original_answer":"air france",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":264683,
+         "original_question":"Are there planes hanging?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":264718,
+         "original_question":"What sign is to the right of the photo?",
+         "original_answer":"2 hour parking",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":327771,
+         "original_question":"How many pillows are on the bed?",
+         "original_answer":"4",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":327771,
+         "original_question":"How many pillows are on the bed?",
+         "original_answer":"4",
+         "question_is_relevant":[],
+         "question_is_meaningful":[],
+         "answer_is_correct":[]
+      },
+      {
+         "image_id":393338,
+         "original_question":"What  2 colors are the flowers?",
+         "original_answer":"red and yellow",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":393410,
+         "original_question":"What is the color of the sky?",
+         "original_answer":"blue",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":393557,
+         "original_question":"What color is the zebra?",
+         "original_answer":"black and white",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":393583,
+         "original_question":"What color is the sign?",
+         "original_answer":"red",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":393647,
+         "original_question":"What is on the front of the bus?",
+         "original_answer":"bike rack",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":393647,
+         "original_question":"What movie is advertised on the side of the bus?",
+         "original_answer":"django",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":393777,
+         "original_question":"What is in the upper corner of the room?",
+         "original_answer":"curtains",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":393777,
+         "original_question":"Is a children's show on TV?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":393984,
+         "original_question":"What is difficult for the woman about this situation?",
+         "original_answer":"watching baby",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":394133,
+         "original_question":"What color is the ribbon on the bed?",
+         "original_answer":"blue",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":394133,
+         "original_question":"Is the bed made?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":394240,
+         "original_question":"What kind of vehicles are parked on the street?",
+         "original_answer":"motorcycles",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":394510,
+         "original_question":"What type of vehicle is behind the boy?",
+         "original_answer":"car",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":394801,
+         "original_question":"Are the brown fruit ripe?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":395402,
+         "original_question":"Is the dog sitting on the ground?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":395402,
+         "original_question":"Is the dog alert?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":396209,
+         "original_question":"What is on the back of the chair?",
+         "original_answer":"towel",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":415325,
+         "original_question":"What color is the sign?",
+         "original_answer":"yellow",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":415325,
+         "original_question":"What color is the sign?",
+         "original_answer":"yellow",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":510657,
+         "original_question":"How many people are sitting at the table?",
+         "original_answer":"7",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":524575,
+         "original_question":"Do the animals live in the cave?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":524775,
+         "original_question":"What company does the bus belong to?",
+         "original_answer":"forth bridges",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":524822,
+         "original_question":"What kind of room is this?",
+         "original_answer":"living room",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":525087,
+         "original_question":"Where is the horse?",
+         "original_answer":"track",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":525087,
+         "original_question":"How many photographers are looking at this horse?",
+         "original_answer":"6",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":525118,
+         "original_question":"Are these home grown bananas?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":525369,
+         "original_question":"How many toys are on the kid bed?",
+         "original_answer":"0",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":525559,
+         "original_question":"Can you see both ends of at least one zebra?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":525568,
+         "original_question":"Is the zebra in the wild?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":525616,
+         "original_question":"How many people are wearing hats?",
+         "original_answer":"0",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":525763,
+         "original_question":"How many boats?",
+         "original_answer":"12",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":526126,
+         "original_question":"What sport is the man playing?",
+         "original_answer":"skateboarding",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":526126,
+         "original_question":"Is the skateboarder looking down at the skateboard?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":526256,
+         "original_question":"What time does the clock read?",
+         "original_answer":"1:10",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":526394,
+         "original_question":"Did the chef decorate the plate?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":526560,
+         "original_question":"Is the zebra drinking?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":526560,
+         "original_question":"Is the grass low cut?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":526806,
+         "original_question":"Is this a high speed train?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":526806,
+         "original_question":"How many circular windows are on the train car?",
+         "original_answer":"4",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":526955,
+         "original_question":"Is the child laughing?",
+         "original_answer":"no",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":527164,
+         "original_question":"What is the date on the sign?",
+         "original_answer":"feb 28 '09",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":527164,
+         "original_question":"What colors is the diamond shaped sign?",
+         "original_answer":"white",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":527164,
+         "original_question":"What colors is the diamond shaped sign?",
+         "original_answer":"white",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":527313,
+         "original_question":"What type of food is the man eating?",
+         "original_answer":"sandwich",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":527447,
+         "original_question":"Are the mountains tall?",
+         "original_answer":"yes",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      },
+      {
+         "image_id":527447,
+         "original_question":"What number of people are standing in front of the slope?",
+         "original_answer":"2",
+         "question_is_relevant":[1],
+         "question_is_meaningful":[1],
+         "answer_is_correct":[1]
+      }
+   ]
+}

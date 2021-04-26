@@ -1,0 +1,106 @@
+,,,question is relevant,,,,question is meaningful,,,,answer is correct,,,
+image_id,original_question,original_answer,person_1,person_2,person_3,scores,person_1,person_2,person_3,scores,person_1,person_2,person_3,scores
+711,How many couches?,2,1,1,1,1,1,1,1,1,1,1,1,1
+974,Are these people in the jungle?,yes,1,1,1,1,1,1,1,1,2,1,2,2
+974,How many people are in the image?,4,1,1,1,1,1,1,1,1,1,1,1,1
+1146,Why does he have glasses on?,to see,1,1,1,1,1,1,1,1,1,1,1,1
+1146,What animal is on the man's shirt?,none,1,1,1,1,1,1,1,1,1,1,1,1
+1153,What kind of container are the bananas sitting in?,bowl,1,1,1,1,1,1,1,1,1,1,1,1
+1180,Why don't the women in the background get to cut the cake?,not their birthday,1,1,1,1,1,1,1,1,1,1,1,1
+1340,Are these flowers artificial?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+1448,Is the giraffe shown here standing erect?,no,1,1,1,1,1,1,1,1,1,1,1,1
+1554,Are these sheep shaved?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+1626,Are there flowers in the room?,yes,1,1,1,1,1,1,1,1,1,0,1,1
+1655,Is the background of the picture blurry?,no,1,1,1,1,1,1,1,1,1,1,1,1
+1655,What is this man taking a picture of?,mountains,1,1,1,1,1,1,1,1,1,1,1,1
+2006,How many dots are on the bus?,30,1,1,1,1,1,1,1,1,1,0,1,1
+2006,How many dots are on the bus?,30,1,1,1,1,1,1,1,1,1,0,1,1
+3067,What color is the cat?,black,1,1,1,1,1,1,1,1,1,1,1,1
+3067,What color is the cat?,black,1,1,1,1,1,1,1,1,1,1,1,1
+131418,Can the people get into this building?,no,1,1,1,1,1,1,1,1,1,1,1,1
+131497,What does the dog have on his head?,bed,1,1,1,1,1,1,1,1,1,1,1,1
+131597,How many motorcycles are there?,4,1,1,1,1,1,1,1,1,1,0,1,1
+132272,Is the man smiling?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+132317,What is sitting on the laptop?,dragonfly,1,1,1,1,1,1,1,1,1,1,1,1
+132415,What is the pizza in?,plate,1,1,1,1,1,2,1,1,1,1,1,1
+132415,Has anyone taken a bite of the slices now on this plate?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+132612,What is it called when all the zebra are together?,herd,1,1,1,1,1,1,1,1,1,0,1,1
+132861,How many clocks can be seen on this building?,2,1,1,1,1,1,1,1,1,1,1,1,1
+133251,What color is the larger dog?,black,1,1,1,1,1,1,1,1,1,1,1,1
+133567,Is the train moving?,yes,1,1,1,1,1,1,1,1,1,0,1,1
+133567,Is the train moving in this photo?,no,1,1,1,1,1,1,1,1,1,1,1,1
+133567,Is the train moving in this photo?,no,1,1,1,1,1,1,1,1,1,1,1,1
+133620,Is she wearing glasses?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+133620,What is she wearing on her head?,helmet,1,[],1,1,1,[],1,1,1,[],1,1
+133636,Are the meters rusted?,no,1,1,1,1,1,1,1,1,1,1,1,1
+133928,Is the boat in the water?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+134010,Is this a train station?,no,1,1,1,1,1,1,1,1,1,1,1,1
+134010,How many train cars are in the image?,3,1,1,1,1,1,1,1,1,1,1,1,1
+134010,Is the grass overgrown on the tracks?,no,1,1,1,1,1,1,1,1,1,1,1,1
+134010,How many train cars are on this train?,3,1,1,1,1,1,1,1,1,1,1,1,1
+262162,Has the bed been made?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+262197,How many colors is the building on the right painted?,1,1,1,1,1,1,1,1,1,1,0,1,1
+262391,Is that a television screen?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+262509,Is there a boat on the water?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+262509,Is the river clear?,no,1,1,1,1,1,1,1,1,1,1,1,1
+262514,Is the woman dark haired?,no,1,1,1,1,1,1,1,1,1,1,1,1
+262895,Is his tie tight?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+262895,Is the man looking at the camera?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+263011,What type of buses are these?,double decker,1,1,1,1,1,1,1,1,1,1,1,1
+263664,How many people are riding on the bike?,2,1,1,1,1,1,1,1,1,1,1,1,1
+264625,Are these flowers daffodils?,yes,1,1,1,1,1,1,1,1,1,2,1,1
+264683,What airline does the plane fly for?,air france,1,1,1,1,1,1,1,1,1,1,1,1
+264683,Are there planes hanging?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+264718,What sign is to the right of the photo?,2 hour parking,1,1,1,1,1,1,1,1,1,1,1,1
+327771,How many pillows are on the bed?,4,1,1,1,1,1,1,1,1,1,1,1,1
+327771,How many pillows are on the bed?,4,1,1,1,1,1,1,1,1,1,1,1,1
+393338,What  2 colors are the flowers?,red and yellow,1,1,1,1,1,1,1,1,1,1,1,1
+393410,What is the color of the sky?,blue,1,1,1,1,1,1,1,1,1,1,1,1
+393557,What color is the zebra?,black and white,1,1,1,1,1,1,1,1,1,1,1,1
+393583,What color is the sign?,red,1,1,1,1,1,1,1,1,1,1,1,1
+393647,What is on the front of the bus?,bike rack,1,1,1,1,1,1,1,1,1,1,1,1
+393647,What movie is advertised on the side of the bus?,django,1,1,1,1,1,1,1,1,1,1,1,1
+393777,What is in the upper corner of the room?,curtains,1,1,1,1,1,1,1,1,1,1,1,1
+393777,Is a children's show on TV?,no,1,1,1,1,1,1,1,1,1,1,1,1
+393984,What is difficult for the woman about this situation?,watching baby,1,1,1,1,1,1,1,1,1,1,1,1
+394133,What color is the ribbon on the bed?,blue,1,1,1,1,1,1,1,1,1,1,1,1
+394133,Is the bed made?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+394240,What kind of vehicles are parked on the street?,motorcycles,1,1,1,1,1,1,1,1,1,1,1,1
+394510,What type of vehicle is behind the boy?,car,1,1,1,1,1,1,1,1,1,2,1,1
+394801,Are the brown fruit ripe?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+395402,Is the dog sitting on the ground?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+395402,Is the dog alert?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+396209,What is on the back of the chair?,towel,1,1,1,1,1,1,1,1,1,1,1,1
+415325,What color is the sign?,yellow,1,1,1,1,1,1,1,1,1,1,1,1
+415325,What color is the sign?,yellow,1,1,1,1,1,1,1,1,1,1,1,1
+510657,How many people are sitting at the table?,7,1,1,1,1,1,1,1,1,1,1,1,1
+524575,Do the animals live in the cave?,no,1,1,1,1,1,1,1,1,1,1,1,1
+524775,What company does the bus belong to?,forth bridges,1,1,1,1,1,1,1,1,1,1,1,1
+524822,What kind of room is this?,living room,1,1,1,1,1,1,1,1,1,1,1,1
+525087,Where is the horse?,track,1,1,1,1,1,1,1,1,1,1,1,1
+525087,How many photographers are looking at this horse?,6,1,1,1,1,1,1,1,1,1,1,1,1
+525118,Are these home grown bananas?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+525369,How many toys are on the kid bed?,0,1,1,1,1,1,1,1,1,1,1,1,1
+525559,Can you see both ends of at least one zebra?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+525568,Is the zebra in the wild?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+525616,How many people are wearing hats?,0,1,1,1,1,1,1,1,1,1,1,1,1
+525763,How many boats?,12,1,1,1,1,1,1,1,1,1,0,1,1
+526126,What sport is the man playing?,skateboarding,1,1,1,1,1,1,1,1,1,1,1,1
+526126,Is the skateboarder looking down at the skateboard?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+526256,What time does the clock read?,1:10,1,1,1,1,1,1,1,1,1,1,1,1
+526394,Did the chef decorate the plate?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+526560,Is the zebra drinking?,no,1,1,1,1,1,1,1,1,1,1,1,1
+526560,Is the grass low cut?,no,1,1,1,1,1,1,1,1,1,1,1,1
+526806,Is this a high speed train?,no,1,1,1,1,1,1,1,1,1,1,1,1
+526806,How many circular windows are on the train car?,4,1,1,1,1,1,1,1,1,1,1,1,1
+526955,Is the child laughing?,no,1,1,1,1,1,1,1,1,1,1,1,1
+527164,What is the date on the sign?,feb 28 '09,1,1,1,1,1,1,1,1,1,1,1,1
+527164,What colors is the diamond shaped sign?,white,1,1,1,1,1,1,1,1,1,1,1,1
+527164,What colors is the diamond shaped sign?,white,1,1,1,1,1,1,1,1,1,1,1,1
+527313,What type of food is the man eating?,sandwich,1,1,1,1,1,1,1,1,1,1,1,1
+527447,Are the mountains tall?,yes,1,1,1,1,1,1,1,1,1,1,1,1
+527447,What number of people are standing in front of the slope?,2,1,1,1,1,1,1,1,1,1,0,0,0
+,,,,,,,,,,,,,,
+,,,,,Yes,1,,,Yes,1,,,Yes,0.98
+,,,,,Partialy,0,,,Partialy,0,,,Partialy,0.01
+,,,,,No,0,,,No,0,,,No,0.01
